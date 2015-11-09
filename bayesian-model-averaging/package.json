@@ -1,0 +1,11 @@
+{
+  "name": "bayesian-posterior",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "clear && node bayesian-posterior.js"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
